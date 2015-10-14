@@ -144,7 +144,7 @@ there.
         padding: 3px 0;
     }
     .menu-collapser {
-        background-image: url("../images/logo.png");
+        background-image: url("../assets/logo.png");
     }
     .mobile-nav.signature-phil{
         display: block !important;
@@ -231,8 +231,8 @@ there.
           width: 31.3% !important;
     }
     body{
-        border-left-width:10px;
-        border-right-width: 10px; 
+        border-left-width: 0px;
+        border-right-width: 0px; 
     }
 }
 
